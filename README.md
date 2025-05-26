@@ -64,5 +64,19 @@ SafeRoute AI provides a citizen-first public safety experience by:
 - Include real-time crime prediction via machine learning
 - Integrate wearable device alerts (e.g., smartwatches)
 
+## API KEY:
+> Please enter your own gemini api key to run this code locally in your system.
+
+
+<h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨‍💻Author: Muhammad Atif LAtif</h1>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/m-Atif-Latif) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/matiflatif) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-atif-latif-13a171318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://x.com/mianatif5867?s=09) 
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_atif_ai/) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:muhammadatiflatif67@gmail.com)
+
 ---
 
